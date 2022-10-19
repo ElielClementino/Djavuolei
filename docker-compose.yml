@@ -49,7 +49,6 @@ services:
   nginx:
     image: nginx
     hostname: nginxvuolei
-    network_mode: "host"
     volumes:
       - ./data:/dkdata
     ports:
