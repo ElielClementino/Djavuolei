@@ -8,3 +8,5 @@ htmlcov/
 /djavuolei.log
 /static
 .env
+.venv
+.vscode

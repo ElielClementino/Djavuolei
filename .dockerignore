@@ -8,3 +8,5 @@ ci/
 .gitlab-ci.yml
 Footer
 .env
+.venv
+.vscode
